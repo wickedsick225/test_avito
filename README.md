@@ -1,4 +1,7 @@
-📂 Структура проекта
+Задание 1. Оформил в Google таблицах: https://docs.google.com/spreadsheets/d/1EfkDXFHYzX-inF8PfkCjrucgRj1DwvLWB8GR9G3VKZ8/edit?usp=sharing
+
+ Структура проекта
+
 avito_test/
 ├── api/
 │   ├── base_api.py
